@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wai-yan-portfolio/static/css/main.45da1d69.css",
+    "main.js": "/wai-yan-portfolio/static/js/main.26df8766.js",
+    "static/js/453.a9f5f323.chunk.js": "/wai-yan-portfolio/static/js/453.a9f5f323.chunk.js",
+    "index.html": "/wai-yan-portfolio/index.html",
+    "main.45da1d69.css.map": "/wai-yan-portfolio/static/css/main.45da1d69.css.map",
+    "main.26df8766.js.map": "/wai-yan-portfolio/static/js/main.26df8766.js.map",
+    "453.a9f5f323.chunk.js.map": "/wai-yan-portfolio/static/js/453.a9f5f323.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45da1d69.css",
+    "static/js/main.26df8766.js"
+  ]
+}
